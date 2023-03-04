@@ -4,9 +4,9 @@
 
 
 # Sobre o projeto:
-A Crazy Açai é uma aplicação WEB totalmente responsiva, criada com o intuito de colocar em pratica as habilidades adquiridas nos estudos de HTML, CSS e JS que estou aprendendo, o foco é o auto desafio para aperfeiçoar o conhecimento e fixar o conteudo estudado. 
+A Crazy Açai é uma aplicação WEB totalmente responsiva, criada com o intuito de colocar em pratica as habilidades adquiridas nos estudos de HTML, CSS e JS que estou fazendo, o foco é o auto desafio para aperfeiçoar o conhecimento e fixar o conteúdo estudado. 
 
-A aplicação consiste em uma landing page responsiva de uma empresa fictícia chamada Crazy Açai, nela contem as principais informações sobre a empresa e como ela funciona, monstrando os principais produtos vendidos, as formas de delivery, download do aplicativo da empresa, pagina explicando sobre a empresa e um rodapé com as principais redes sociais e politicas de privacidade do site.
+A aplicação consiste em uma landing page responsiva de uma empresa fictícia chamada Crazy Açai, nela contém as principais informações sobre a empresa e como ela funciona, monstrando os principais produtos vendidos, as formas de delivery, download do aplicativo da empresa, página explicando sobre a empresa, um rodapé com as principais redes sociais e Política de privacidade do site.
 
 ## Versão WEB:
 <div align="center"> 
